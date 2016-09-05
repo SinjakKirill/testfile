@@ -1,0 +1,6 @@
+D:\University BSTY 2 семестр 2\ООП C#\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+D:\University BSTY 2 семестр 2\ООП C#\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+D:\University BSTY 2 семестр 2\ООП C#\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+D:\University BSTY 2 семестр 2\ООП C#\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojResolveAssemblyReference.cache
+D:\University BSTY 2 семестр 2\ООП C#\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+D:\University BSTY 2 семестр 2\ООП C#\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
